@@ -62,19 +62,13 @@ COMMON DEVELOPMENTS: CHATBOT INTEGRATION, HOME PAGE
  
 ## 📅 Timeline & Milestones
  
-| Date         | Milestone                            |
-
-|--------------|---------------------------------------|
-
-| 10/04/2025   | Project Kickoff                       |
-
-| 18/04/2025   | Overcame Major UI & Bug Challenges    |
-
-| 12/05/2025   | UI/UX Finalization                    |
-
-| 26/05/2025   | Integrated Custom Chatbot (KrizBot)   |
-
-| 3/06/2025   | Final Testing & Deployment            |
+| Date        | Milestone                           |
+|-------------|--------------------------------------|
+| 10/04/2025  | Project Kickoff                      |
+| 18/04/2025  | Overcame Major UI & Bug Challenges   |
+| 12/05/2025  | UI/UX Finalization                   |
+| 26/05/2025  | Integrated Custom Chatbot (KrizBot)  |
+| 03/06/2025  | Final Testing & Deployment           |
  
 ---
  
