@@ -74,8 +74,17 @@ COMMON DEVELOPMENTS: CHATBOT INTEGRATION, HOME PAGE
  
 ## 📸 Screenshots
  
-> _Include screenshots of your homepage, product page, blog section, and chatbot popup for better presentation._
- 
+![image](https://github.com/user-attachments/assets/15094b9f-a70c-4986-8e26-60a7bdd80461)
+![image](https://github.com/user-attachments/assets/db17ac23-1578-4af5-9043-529502ce158d)
+![image](https://github.com/user-attachments/assets/d23b18a9-816a-4cc6-8e0f-9c9de5ebde73)
+![image](https://github.com/user-attachments/assets/40e44722-14a4-422a-9ada-d258ffe5ca99)
+![image](https://github.com/user-attachments/assets/26ee2468-ebcc-419d-9fc1-1ca4fa22cc07)
+![image](https://github.com/user-attachments/assets/2c04d14e-4496-4dfe-aa79-72a9fe6e1598)
+![image](https://github.com/user-attachments/assets/1081f6f9-94ae-4ca4-80be-84069ef8ef98)
+![image](https://github.com/user-attachments/assets/c6f667e5-7751-40d9-891b-7070b5e6880d)
+![image](https://github.com/user-attachments/assets/fc206c76-892d-4c15-8a75-7e692399ba41)
+![image](https://github.com/user-attachments/assets/2b309ced-2e70-4e1b-ab67-e871697230b2)
+
 ---
  
 ## 📁 Folder Structure
