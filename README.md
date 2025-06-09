@@ -33,7 +33,7 @@ This project not only helped us grow as developers but also as a team, understan
 | Name                    | Role                      |
 |-------------------------|---------------------------|
 | **Karthik Unnikrishnan** | UI / About / Blog         |
-| **Shravan Balakrishnan** | Checkout / Payment JS     |
+| **Shravan Balakrishnan** | Checkout / Payment      |
 | **Adwaith Santhosh**     | Shop / Cart               |
 | **Rijin Rajeevan**       | Login / Contact Pages     |
 
